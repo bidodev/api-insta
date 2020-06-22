@@ -1,6 +1,6 @@
 {
   "files": {
-    "url" : "./public"
+    "url": "./public"
   },
   "posts": {
     "url": "./posts/",
@@ -98,37 +98,43 @@
         "id": 1,
         "race": "dog",
         "likes": "299.9k",
-        "comments": "13k"
+        "comments": "13k",
+        "url": "https://i.imgur.com/yz10ERv.png"
       },
       {
         "id": 2,
         "race": "cat",
         "likes": "200.9k",
-        "comments": "11.2k"
+        "comments": "11.2k",
+        "url": "https://i.imgur.com/jolbmtm.png"
       },
       {
         "id": 3,
         "race": "cat",
         "likes": "309.9k",
-        "comments": "5k"
+        "comments": "5k",
+        "url": "https://i.imgur.com/sLsAKA4.png"
       },
       {
         "id": 4,
         "race": "cat",
         "likes": "299.9k",
-        "comments": "13k"
+        "comments": "13k",
+        "url": "https://i.imgur.com/y5Yeoh6.png"
       },
       {
         "id": 5,
         "race": "dog",
         "likes": "200.9k",
-        "comments": "11.2k"
+        "comments": "11.2k",
+        "url": "https://i.imgur.com/FPlsLa3.png"
       },
       {
         "id": 6,
         "race": "dog",
         "likes": "309.9k",
-        "comments": "5k"
+        "comments": "5k",
+        "url": "https://i.imgur.com/9GCekWi.png"
       }
     ]
   },
@@ -139,73 +145,85 @@
         "id": 1,
         "race": "bunny",
         "likes": "86.9k",
-        "comments": "21k"
+        "comments": "21k",
+        "url": "https://i.imgur.com/l5axxNP.png"
       },
       {
         "id": 2,
         "race": "bunny",
         "likes": "869.9k",
-        "comments": "5k"
+        "comments": "5k",
+        "url": "https://i.imgur.com/Z7yufqu.png"
       },
       {
         "id": 3,
         "race": "bunny",
         "likes": "6.9m",
-        "comments": "2.7k"
+        "comments": "2.7k",
+        "url": "https://i.imgur.com/LFpWaCq.png"
       },
       {
         "id": 4,
         "race": "dog",
         "likes": "209.9k",
-        "comments": "12k"
+        "comments": "12k",
+        "url": "https://i.imgur.com/gdh3MsO.png"
       },
       {
         "id": 5,
         "race": "dog",
         "likes": "125.9k",
-        "comments": "12k"
+        "comments": "12k",
+        "url": "https://i.imgur.com/LFpWaCq.png"
       },
       {
         "id": 6,
         "race": "dog",
         "likes": "175.9k",
-        "comments": "5.3k"
+        "comments": "5.3k",
+        "url": "https://i.imgur.com/vJeuBAR.png"
       },
       {
         "id": 7,
         "race": "dog",
         "likes": "275.9k",
-        "comments": "7k"
+        "comments": "7k",
+        "url": "https://i.imgur.com/GnAjEZ2.png"
       },
       {
         "id": 8,
         "race": "cat",
         "likes": "205.9k",
-        "comments": "15.2k"
+        "comments": "15.2k",
+        "url": "https://i.imgur.com/YhkwHgt.png"
       },
       {
         "id": 9,
         "race": "cat",
         "likes": "2.9m",
-        "comments": "214k"
+        "comments": "214k",
+        "url": "https://i.imgur.com/PfwtWCO.png"
       },
       {
         "id": 10,
         "race": "cat",
         "likes": "2.9m",
-        "comments": "214k"
+        "comments": "214k",
+        "url": "https://i.imgur.com/dAzR2wd.png"
       },
       {
         "id": 11,
         "race": "cat",
         "likes": "2.9m",
-        "comments": "214k"
+        "comments": "214k",
+        "url": "https://i.imgur.com/XFCPKGb.png"
       },
       {
         "id": 12,
         "race": "dog",
         "likes": "2.9m",
-        "comments": "214k"
+        "comments": "214k",
+        "url": "https://i.imgur.com/Wln7urY.png"
       }
     ]
   }
