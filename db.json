@@ -17,77 +17,77 @@
         "race": "dog",
         "likes": "200.9k",
         "comments": "11.2k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/VyhP0ia.png"
       },
       {
         "id": 3,
         "race": "dog",
         "likes": "309.9k",
         "comments": "5k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/P9rkk8D.png"
       },
       {
         "id": 4,
         "race": "dog",
         "likes": "209.9k",
         "comments": "12k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/7mmEopT.png"
       },
       {
         "id": 5,
         "race": "dog",
         "likes": "125.9k",
         "comments": "12k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/tKhLAAY.png"
       },
       {
         "id": 6,
         "race": "dog",
         "likes": "175.9k",
         "comments": "5.3k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/tPw9spf.png"
       },
       {
         "id": 7,
         "race": "dog",
         "likes": "275.9k",
         "comments": "7k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/p6DOR27.png"
       },
       {
         "id": 8,
         "race": "cat",
         "likes": "205.9k",
         "comments": "15.2k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/tvJFYwK.png"
       },
       {
         "id": 9,
         "race": "dog",
         "likes": "2.9m",
         "comments": "214k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/jepxOhs.png"
       },
       {
         "id": 10,
         "race": "dog",
         "likes": "86.9k",
         "comments": "21k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/hc6JIxs.png"
       },
       {
         "id": 11,
         "race": "cat",
         "likes": "869.9k",
         "comments": "5k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/e5Wmtz7.png"
       },
       {
         "id": 12,
         "race": "cat",
         "likes": "6.9m",
         "comments": "2.7k",
-        "url": "./img/"
+        "url": "https://i.imgur.com/cCyKgKI.png"
       }
     ]
   },
