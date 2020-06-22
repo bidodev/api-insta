@@ -1,4 +1,7 @@
 {
+  "files": {
+    "url" : "./public"
+  },
   "posts": {
     "url": "./posts/",
     "data": [
